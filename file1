@@ -1,2 +1,5 @@
 This is my first GIT repo file.
 Need to check the fetch of git
+
+Fetch is only fetching but not merging.
+So I can't see the new code of the server.
